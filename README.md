@@ -10,6 +10,7 @@ This program requires Java to compile and run.
 
 ## Credits
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
+
 This program is based on JSON Database project on JetBrains Academy
 
 ## License
